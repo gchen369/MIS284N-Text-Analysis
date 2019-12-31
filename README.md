@@ -1,5 +1,5 @@
 ## MIS284N Text Analysis
- Projects for Text Analysis
+ Projects for Text Analytics
 
 
  - **Project 1 - Brand Association Analysis**
