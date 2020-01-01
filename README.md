@@ -4,7 +4,7 @@
 
  - **Project 1 - Brand Association Analysis**
  
-    We used Selenium to fetch messages from [Edmunds.com](Edmunds.com). We choose a discussion thread about entry level luxury sedans. The goal is to provide actionable recommendations to brand managers/ product managers/ advertising managers, based on the analysis of social media conversations. Used MDS maps as a visualization tool to convey our findings.
+    We used Selenium to fetch messages from [Edmunds.com](www.Edmunds.com). We choose a discussion thread about entry level luxury sedans. The goal is to provide actionable recommendations to brand managers/ product managers/ advertising managers, based on the analysis of social media conversations. Used MDS maps as a visualization tool to convey our findings.
 
 
  - **Project 2 - Topic Modeling on Image Tags**
